@@ -1,1 +1,1 @@
-Personal portfolio Website using HTML, CSS and JavaScript.
+Personal portfolio website using HTML, CSS and JavaScript.
